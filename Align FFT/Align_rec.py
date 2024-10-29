@@ -4,11 +4,11 @@ import soundfile as sf
 from scipy.signal import fftconvolve
 
 print("Loading Pi1 audio file...")
-audio_pi1, sr1 = librosa.load("output_2024-10-17_170735.481051.wav", sr=None)
+audio_pi1, sr1 = librosa.load("pi1_audio.wav", sr=None)
 print("Pi1 audio loaded.")
 
 print("Loading Pi2 audio file...")
-audio_pi2, sr2 = librosa.load("Valentin1.wav", sr=None)
+audio_pi2, sr2 = librosa.load("pi2_audio.wav", sr=None)
 print("Pi2 audio loaded.")
 
 if sr1 != sr2:
