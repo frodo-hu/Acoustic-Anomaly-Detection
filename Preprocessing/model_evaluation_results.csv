@@ -1,0 +1,2 @@
+Machine,Features,Model,AUC,Recall,Precision,Abnormal (-1) F1
+Washing-machine,Mel-Spectrogram,Autoencoder,0.8681011535048803,0.6347826086956522,0.9864864864864865,0.7724867724867724
