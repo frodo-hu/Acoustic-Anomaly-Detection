@@ -3,4 +3,4 @@ Acoustic Anomaly Detection for Predictive Maintenance in Hydroelectric Powerplan
 
 
 Video introduction to the project:
-https://youtu.be/QlyDrhpLVgA
+https://youtu.be/CkA2gpYUkdY
