@@ -132,6 +132,6 @@ To run the project, ensure you have the following dependencies installed:
 
 ### Data Analysis Notebook
 1. **Data Analysis.ipynb**  
-   - VIsual Analysis of Datasets. 
+   - Visual Analysis of Datasets. 
 
 ---
