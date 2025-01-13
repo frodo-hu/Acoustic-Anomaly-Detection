@@ -4,7 +4,7 @@ Acoustic Anomaly Detection for Predictive Maintenance in Hydroelectric Powerplan
 
 This project implements various machine learning techniques, including AutoEncoders, Local Outlier Factor (LOF), Isolation Forest (IF), and PCA, to detect anomalies in hydroelectric powerplant machinery based on sound recordings.
 
-**Video Introduction**: Watch on YouTube: https://youtu.be/CkA2gpYUkdY
+**Video Introduction**: https://youtu.be/CkA2gpYUkdY
 
 ## Table of Contents
 - [Introduction](#introduction)
