@@ -1,6 +1,8 @@
-# Acoustic Anomaly Detection
+# Acoustic Anomaly Detection for Predictive Maintenance in Hydroelectric Powerplants.
 
-Acoustic Anomaly Detection for Predictive Maintenance in Hydroelectric Powerplants.
+## Introduction
+
+This repository focuses on acoustic anomaly detection using predictive models to detect faults or irregularities in hydroelectric machinery. The primary goal is to leverage sound data for monitoring and maintenance, ensuring efficient and timely detection of potential issues.
 
 This project implements various machine learning techniques, including AutoEncoders, Local Outlier Factor (LOF), Isolation Forest (IF), and PCA, to detect anomalies in hydroelectric powerplant machinery based on sound recordings.
 
@@ -14,12 +16,6 @@ This project implements various machine learning techniques, including AutoEncod
 - [Usage](#usage)
 - [Models](#models)
 - [Notebooks](#notebooks)
-
----
-
-## Introduction
-
-This repository focuses on acoustic anomaly detection using predictive models to detect faults or irregularities in hydroelectric machinery. The primary goal is to leverage sound data for monitoring and maintenance, ensuring efficient and timely detection of potential issues.
 
 ---
 
@@ -39,7 +35,7 @@ This repository focuses on acoustic anomaly detection using predictive models to
 
 ## Repository Structure
 
-.
+```
 ├── Data/
 │   ├── mel/           # Preprocessed Mel-spectrogram data
 │   ├── raw/           # Raw sound recordings
@@ -62,10 +58,10 @@ This repository focuses on acoustic anomaly detection using predictive models to
 ├── Recording/
 │   └── record.py          # Script for recording sound data
 ├── README.md
-
+```
 ---
 
-## Repository Structure
+## Installation
 
 To run the project, ensure you have the following dependencies installed:
 - Python 3.8 or later
@@ -91,7 +87,7 @@ To run the project, ensure you have the following dependencies installed:
 
 3. **Train Models**  
    - Use the notebooks in `Notebooks/AutoEncoder/` to train AutoEncoders on specific datasets.  
-   - Use the notebooks in `Notebooks/Data Analysis/` to apply LOF, IF, and PCA to the datasets.
+   - Use the notebooks in `Notebooks/LOF, IF, PCA/` to apply LOF, IF, and PCA to the datasets.
 
 4. **Evaluate Models**  
    - Compare the performance of AutoEncoders and classical ML models using test metrics like precision, recall, F1-score, and AUC.
