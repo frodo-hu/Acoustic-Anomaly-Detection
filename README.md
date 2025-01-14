@@ -8,7 +8,7 @@ This project implements various machine learning techniques, including AutoEncod
 
 **Video Introduction**: https://youtu.be/CkA2gpYUkdY
 
-![Pipeline Diagram](Pipline.png)
+![Pipeline Diagram](Pipeline.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
