@@ -50,11 +50,11 @@ This project implements various machine learning techniques, including AutoEncod
 │       ├── AutoEncoder_Synthetic.ipynb
 │       ├── AutoEncoder_WashingMachine.ipynb
 │   ├── LOF, IF, PCA/     # LOF, IF, PCA anomaly detection notebooks
-│       ├── LOF_IF_PCA_Real.ipynb
-│       ├── LOF_IF_PCA_Synthetic.ipynb
-│       ├── LOF_IF_PCA_WashingMachine.ipynb
+│       ├── LOF, IF, PCA_Real.ipynb
+│       ├── LOF, IF, PCA_Synthetic.ipynb
+│       ├── LOF, IF, PCA_WashingMachine.ipynb
 │   ├── Data Analysis/     # LOF, IF, PCA anomaly detection notebooks
-│       ├── LOF_IF_PCA_Real.ipynb
+│       ├── Data Analysis.ipynb
 ├── Recording/
 │   └── record.py          # Script for recording sound data
 ├── README.md
