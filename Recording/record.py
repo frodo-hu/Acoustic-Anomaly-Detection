@@ -32,3 +32,4 @@ if __name__ == "__main__":
     duration = int(input("Enter for how long you want to record: "))
 
     record_audio(device_id=device_id, duration=duration)
+ 
