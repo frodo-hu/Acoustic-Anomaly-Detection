@@ -1,4 +1,4 @@
-# Acoustic Anomaly Detection for Predictive Maintenance in Hydroelectric Powerplants.
+# Acoustic Anomaly Detection for Predictive Maintenance in Industrial Machinery
 
 ## Introduction
 
