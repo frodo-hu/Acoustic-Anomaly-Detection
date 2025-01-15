@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This repository focuses on acoustic anomaly detection using predictive models to detect faults or irregularities in hydroelectric machinery. The primary goal is to leverage sound data for monitoring and maintenance, ensuring efficient and timely detection of potential issues.
+This repository focuses on acoustic anomaly detection using predictive models to detect faults or irregularities in industrial machinery. The primary goal is to leverage sound data for monitoring and maintenance, ensuring efficient and timely detection of potential issues.
 
-This project implements various machine learning techniques, including AutoEncoders, Local Outlier Factor (LOF), Isolation Forest (IF), and PCA, to detect anomalies in hydroelectric powerplant machinery based on sound recordings.
+This project implements various machine learning techniques, including AutoEncoders, Local Outlier Factor (LOF), Isolation Forest (IF), and PCA, to detect anomalies in industrialt machinery based on sound recordings.
 
 **Video Introduction**: https://youtu.be/CkA2gpYUkdY
 
@@ -30,7 +30,7 @@ This project implements various machine learning techniques, including AutoEncod
   - Comparison between models for anomaly detection effectiveness.
 
 - **Applications:**
-  - Predictive maintenance of hydroelectric powerplants.
+  - Predictive maintenance of industrial machines.
   - Acoustic monitoring for fault detection in real-world and synthetic datasets.
 
 ---
@@ -55,7 +55,7 @@ This project implements various machine learning techniques, including AutoEncod
 │       ├── LOF, IF, PCA_Real.ipynb
 │       ├── LOF, IF, PCA_Synthetic.ipynb
 │       ├── LOF, IF, PCA_WashingMachine.ipynb
-│   ├── Data Analysis/     # LOF, IF, PCA anomaly detection notebooks
+│   ├── Data Analysis/     # Spectral analysis of dataset
 │       ├── Data Analysis.ipynb
 ├── Recording/
 │   └── record.py          # Script for recording sound data
@@ -103,7 +103,7 @@ To run the project, ensure you have the following dependencies installed:
 ## Models
 
 ### AutoEncoders
-- **AE_Real.pth**: Pre-trained model for real-world hydroelectric data.  
+- **AE_Real.pth**: Pre-trained model for real-world industrial machinery data.  
 - **AE_Synthetic.pth**: Pre-trained model for synthetic datasets.  
 - **AE_WM.pth**: Pre-trained model for washing machine anomaly detection.
 
