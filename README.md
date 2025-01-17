@@ -4,7 +4,7 @@
 
 This repository focuses on acoustic anomaly detection using predictive models to detect faults or irregularities in industrial machinery. The primary goal is to leverage sound data for monitoring and maintenance, ensuring efficient and timely detection of potential issues.
 
-This project implements various machine learning techniques, including AutoEncoders, Local Outlier Factor (LOF), Isolation Forest (IF), and PCA, to detect anomalies in industrialt machinery based on sound recordings.
+This project implements various machine learning techniques, including AutoEncoders, Local Outlier Factor (LOF), Isolation Forest (IF), and PCA, to detect anomalies in industrial machinery based on sound recordings.
 
 **Video Introduction**: https://youtu.be/CkA2gpYUkdY
 
@@ -26,12 +26,12 @@ This project implements various machine learning techniques, including AutoEncod
 - **Key Features:**
   - Preprocessing of raw sound data into Mel-spectrograms.
   - Implementation of AutoEncoders for unsupervised anomaly detection.
-  - Application of classical machine learning methods like LOF, Isolation Forest, and PCA.
+  - Application of classical machine learning methods like LOF, IF, and PCA.
   - Comparison between models for anomaly detection effectiveness.
 
 - **Applications:**
   - Predictive maintenance of industrial machines.
-  - Acoustic monitoring for fault detection in real-world and synthetic datasets.
+  - Acoustic monitoring for anomaly detection in real-world and synthetic datasets.
 
 ---
 
